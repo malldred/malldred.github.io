@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophia Perdikaris | Alldred Lab</title>
+    <link>/author/sophia-perdikaris/</link>
+      <atom:link href="/author/sophia-perdikaris/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sophia Perdikaris</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mary Alldred</copyright>
+    <image>
+      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
+      <title>Sophia Perdikaris</title>
+      <link>/author/sophia-perdikaris/</link>
+    </image>
+    
+    <item>
+      <title>Size and density of upside-down jellyfish, *Cassiopea* sp., and their impact on benthic fluxes in a Caribbean lagoon</title>
+      <link>/publication/zarnoch-etal-2020-marineenvresearch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/zarnoch-etal-2020-marineenvresearch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

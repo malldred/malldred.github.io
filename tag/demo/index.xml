@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Alldred Lab</title>
+    <link>/tag/demo/</link>
+      <atom:link href="/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mary Alldred</copyright><lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
+      <title>Demo</title>
+      <link>/tag/demo/</link>
+    </image>
+    
+    <item>
+      <title>ENV 422 Environmental Data Analysis</title>
+      <link>/courses_spark/05_env422/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/courses_spark/05_env422/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENV 462 Ecosystem Ecology</title>
+      <link>/courses_spark/06_env462/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/courses_spark/06_env462/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENV 304 Ecology</title>
+      <link>/courses_spark/03_env304/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/courses_spark/03_env304/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENV 413 Biogeochemical Cycling</title>
+      <link>/courses_spark/04_env413/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/courses_spark/04_env413/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENV 439 Wetland Ecology and Management</title>
+      <link>/courses_spark/02_env439/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/courses_spark/02_env439/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Research Projects</title>
+      <link>/project/01_undergraduateresearch/</link>
+      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/project/01_undergraduateresearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/templates/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/templates/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

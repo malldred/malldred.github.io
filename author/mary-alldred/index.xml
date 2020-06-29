@@ -5,12 +5,20 @@
     <link>/author/mary-alldred/</link>
       <atom:link href="/author/mary-alldred/index.xml" rel="self" type="application/rss+xml" />
     <description>Mary Alldred</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mary Alldred</copyright><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mary Alldred</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/mary-alldred/avatar_huff5571ca19ba317fed7d9f097ae2ce2d_2828150_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Mary Alldred</title>
       <link>/author/mary-alldred/</link>
     </image>
+    
+    <item>
+      <title>Size and density of upside-down jellyfish, *Cassiopea* sp., and their impact on benthic fluxes in a Caribbean lagoon</title>
+      <link>/publication/zarnoch-etal-2020-marineenvresearch/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/zarnoch-etal-2020-marineenvresearch/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Marsh plants enhance coastal marsh resilience by changing sediment oxygen and sulfide concentrations in an urban, eutrophic estuary</title>
@@ -298,14 +306,6 @@ date: 2019-09-01
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Size and density of upside-down jellyfish, *Cassiopea* sp., and their impact on benthic fluxes in a Caribbean lagoon</title>
-      <link>/publication/zarnoch-etal-2020-marineenvresearch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/zarnoch-etal-2020-marineenvresearch/</guid>
-      <description></description>
     </item>
     
   </channel>

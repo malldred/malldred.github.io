@@ -5,12 +5,20 @@
     <link>/tag/demo/</link>
       <atom:link href="/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mary Alldred</copyright><lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Mary Alldred</copyright><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
       <title>Demo</title>
       <link>/tag/demo/</link>
     </image>
+    
+    <item>
+      <title>Undergraduate Research Projects</title>
+      <link>/project/01_undergraduateresearch/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/project/01_undergraduateresearch/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ENV 422 Environmental Data Analysis</title>
@@ -49,14 +57,6 @@
       <link>/courses_spark/02_env439/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/courses_spark/02_env439/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Undergraduate Research Projects</title>
-      <link>/project/01_undergraduateresearch/</link>
-      <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/project/01_undergraduateresearch/</guid>
       <description></description>
     </item>
     

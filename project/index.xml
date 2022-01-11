@@ -5,12 +5,32 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>Zoom a Microbe</title>
+      <link>/project/zoomamicrobe/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/project/zoomamicrobe/</guid>
+      <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
+&lt;p&gt;The best advice I ever received for learning biogeochemistry is that everything makes a lot more sense if you think about it from the point of view of a microbe. But let&amp;rsquo;s face it, microbes can be hard to relate to. They are foundational to the structure and function of every ecosystem on Earth. But they&amp;rsquo;re also small, they don&amp;rsquo;t talk much, and we rarely see them in their own environments. Until now! The Zoom a Microbe series dives below the surface of ecosystems and interview microbes about what they do and why. These videos are designed to be short, entertaining, and hopefully spark a desire to learn more about our fascinating microscopic neighbors.&lt;/p&gt;
+&lt;h2 id=&#34;meet-one-of-the-microbes&#34;&gt;Meet One of the Microbes!&lt;/h2&gt;
+&lt;p&gt;Meet the microbe who started it all, Didi the Denitrifying Bacterium.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Q06QHOUY08o&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h2 id=&#34;subscribe-to-the-dr-nitrogen-numbers-youtube-channel&#34;&gt;Subscribe to the Dr. Nitrogen Numbers YouTube Channel&lt;/h2&gt;
+&lt;p&gt;If you enjoyed meeting Didi, check out my YouTube Channel. Like and subscribe to stay up to date on the latest microbe interviews.&lt;br&gt;
+
+&lt;a href=&#34;https://www.youtube.com/channel/UCSjie6ta8378AHsF0yet-aw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Nitrogen Numbers&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://dashinggecko.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Jonathan Borrelli&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Educational Displays at the LaPierre Lane Riverway</title>

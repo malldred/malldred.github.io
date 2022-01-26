@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Alldred Lab</title>
-    <link>/publication-type/2/</link>
-      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://malldred.github.io/publication-type/2/</link>
+      <atom:link href="https://malldred.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
+      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>/publication-type/2/</link>
+      <link>https://malldred.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>Size and density of upside-down jellyfish, *Cassiopea* sp., and their impact on benthic fluxes in a Caribbean lagoon</title>
-      <link>/publication/zarnoch-etal-2020-marineenvresearch/</link>
+      <link>https://malldred.github.io/publication/zarnoch-etal-2020-marineenvresearch/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/zarnoch-etal-2020-marineenvresearch/</guid>
+      <guid>https://malldred.github.io/publication/zarnoch-etal-2020-marineenvresearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marsh plants enhance coastal marsh resilience by changing sediment oxygen and sulfide concentrations in an urban, eutrophic estuary</title>
-      <link>/publication/alldred-etal-2020-estuariescoasts/</link>
+      <link>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/alldred-etal-2020-estuariescoasts/</guid>
+      <guid>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ribbed mussels *Geukensia demissa* enhance nitrogen-removal services but not plant growth in restored eutrophic salt marshes</title>
-      <link>/publication/zhu-etal-2019-meps/</link>
+      <link>https://malldred.github.io/publication/zhu-etal-2019-meps/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/zhu-etal-2019-meps/</guid>
+      <guid>https://malldred.github.io/publication/zhu-etal-2019-meps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of salinity and nutrients on salt marsh stability</title>
-      <link>/publication/alldred-etal-2017-ecosphere/</link>
+      <link>https://malldred.github.io/publication/alldred-etal-2017-ecosphere/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/alldred-etal-2017-ecosphere/</guid>
+      <guid>https://malldred.github.io/publication/alldred-etal-2017-ecosphere/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of invasive-plant management on nitrogen-removal services in freshwater tidal marshes</title>
-      <link>/publication/alldred-etal-2016-plosone/</link>
+      <link>https://malldred.github.io/publication/alldred-etal-2016-plosone/</link>
       <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/alldred-etal-2016-plosone/</guid>
+      <guid>https://malldred.github.io/publication/alldred-etal-2016-plosone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of wetland plants on denitrification rates: a meta‐analysis</title>
-      <link>/publication/alldred-baines-2016-ecologicalapplications/</link>
+      <link>https://malldred.github.io/publication/alldred-baines-2016-ecologicalapplications/</link>
       <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/alldred-baines-2016-ecologicalapplications/</guid>
+      <guid>https://malldred.github.io/publication/alldred-baines-2016-ecologicalapplications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>/templates/journal-article/</link>
+      <link>https://malldred.github.io/templates/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/templates/journal-article/</guid>
+      <guid>https://malldred.github.io/templates/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

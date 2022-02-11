@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan J. Borrelli | Alldred Lab</title>
-    <link>https://malldred.github.io/author/jonathan-j.-borrelli/</link>
-      <atom:link href="https://malldred.github.io/author/jonathan-j.-borrelli/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/jonathan-j.-borrelli/</link>
+      <atom:link href="/author/jonathan-j.-borrelli/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan J. Borrelli</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
       <title>Jonathan J. Borrelli</title>
-      <link>https://malldred.github.io/author/jonathan-j.-borrelli/</link>
+      <link>/author/jonathan-j.-borrelli/</link>
     </image>
     
     <item>
       <title>Marsh plants enhance coastal marsh resilience by changing sediment oxygen and sulfide concentrations in an urban, eutrophic estuary</title>
-      <link>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</link>
+      <link>/publication/alldred-etal-2020-estuariescoasts/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</guid>
+      <guid>/publication/alldred-etal-2020-estuariescoasts/</guid>
       <description></description>
     </item>
     

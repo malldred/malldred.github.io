@@ -1,312 +1,536 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
-    <loc>https://malldred.github.io/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/courses_spark/cfs-1889/</loc>
-    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/courses_spark/</loc>
-    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/demo/</loc>
-    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/courses_spark/env340/</loc>
-    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tags/</loc>
-    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/education/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/microbial-ecology/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/project/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/wetland-ecosystems/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/project/zoomamicrobe/</loc>
-    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/coupled-socioecological-systems/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/project/06_lapierrelaneriverway/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/undergraduate-research/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/project/01_undergraduateresearch/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/urban-ecology/</loc>
-    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/denitrification/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/project/05_altonaflatrock/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/ecosystem-function/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/ecosystem-services/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/project/03_speciesinteractions/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/nitrogen/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/paleoecology/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/restoration/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/species-interactions/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/succession/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/traits/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/urban/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/project/02_urbanmarshrestoration/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/project/04_traitsecosystemfunction/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/courses_spark/env422/</loc>
-    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/courses_spark/env462/</loc>
-    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/courses_spark/env304/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/courses_spark/env413/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/courses_spark/env439/</loc>
-    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/publication-type/2/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/authors/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/chester-b.-zarnoch/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/erika-fusco/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/mary-alldred/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/noshin-hossain/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/publication_types/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/publication/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/publication/zarnoch-etal-2020-marineenvresearch/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/sophia-perdikaris/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/source-themes/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/timothy-hoellein/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/chester-zarnoch/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/denise-bruesewitz/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/jonathan-j.-borrelli/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</loc>
-    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/j.-stephen-gosnell/</loc>
-    <lastmod>2019-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/jennifer-zhu/</loc>
-    <lastmod>2019-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/publication/zhu-etal-2019-meps/</loc>
-    <lastmod>2019-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/templates/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/templates/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/anne-liberti/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/publication/alldred-etal-2017-ecosphere/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/stephen-b.-baines/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/templates/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/templates/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/publication/alldred-etal-2016-plosone/</loc>
-    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/stuart-findlay/</loc>
-    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/publication/alldred-baines-2016-ecologicalapplications/</loc>
-    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/templates/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/category/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/tag/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/templates/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://malldred.github.io/author/alexandria-elliott/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/brandon-lenberger/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/jesse-pruden/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/juliana-flint/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/kayleen-snyder/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/kierstyn-higgins/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/lily-delmarsh/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/makayla-tompkins/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/mark-heyer/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/michala-hendrick/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/sarahana-shrestha/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/stephanie-gray/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/thomas-whaley/</loc>
-  </url><url>
-    <loc>https://malldred.github.io/author/troy-tetreault/</loc>
   </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ecosystem-services/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/speciesinteractions/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/restoration/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/species-interactions/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/urban/</loc>
+    <lastmod>2022-02-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses_spark/cfs-1889/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses_spark/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/demo/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses_spark/env340/</loc>
+    <lastmod>2022-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/education/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/microbial-ecology/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wetland-ecosystems/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/zoomamicrobe/</loc>
+    <lastmod>2022-01-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/coupled-socioecological-systems/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/06_lapierrelaneriverway/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/undergraduate-research/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/01_undergraduateresearch/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/urban-ecology/</loc>
+    <lastmod>2021-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/denitrification/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/05_altonaflatrock/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ecosystem-function/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nitrogen/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/paleoecology/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/succession/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/traits/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/02_urbanmarshrestoration/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/04_traitsecosystemfunction/</loc>
+    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses_spark/env422/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses_spark/env462/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses_spark/env304/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses_spark/env413/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses_spark/env439/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chester-b.-zarnoch/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/erika-fusco/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mary-alldred/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/noshin-hossain/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zarnoch-etal-2020-marineenvresearch/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sophia-perdikaris/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/timothy-hoellein/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chester-zarnoch/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/denise-bruesewitz/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jonathan-j.-borrelli/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/alldred-etal-2020-estuariescoasts/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.-stephen-gosnell/</loc>
+    <lastmod>2019-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jennifer-zhu/</loc>
+    <lastmod>2019-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zhu-etal-2019-meps/</loc>
+    <lastmod>2019-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/templates/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/templates/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anne-liberti/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/alldred-etal-2017-ecosphere/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stephen-b.-baines/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/templates/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/templates/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/alldred-etal-2016-plosone/</loc>
+    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stuart-findlay/</loc>
+    <lastmod>2016-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/alldred-baines-2016-ecologicalapplications/</loc>
+    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/templates/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/templates/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alexandria-elliott/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/brandon-lenberger/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jesse-pruden/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/juliana-flint/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/kayleen-snyder/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/kierstyn-higgins/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/lily-delmarsh/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/makayla-tompkins/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/mark-heyer/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/michala-hendrick/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/sarahana-shrestha/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/stephanie-gray/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-whaley/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/troy-tetreault/</loc>
+  </url>
+  
 </urlset>

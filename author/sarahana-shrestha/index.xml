@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sarahana Shrestha | Alldred Lab</title>
-    <link>https://malldred.github.io/author/sarahana-shrestha/</link>
-      <atom:link href="https://malldred.github.io/author/sarahana-shrestha/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/sarahana-shrestha/</link>
+      <atom:link href="/author/sarahana-shrestha/index.xml" rel="self" type="application/rss+xml" />
     <description>Sarahana Shrestha</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright>
     <image>
-      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
       <title>Sarahana Shrestha</title>
-      <link>https://malldred.github.io/author/sarahana-shrestha/</link>
+      <link>/author/sarahana-shrestha/</link>
     </image>
     
   </channel>

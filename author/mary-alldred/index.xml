@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mary Alldred | Alldred Lab</title>
-    <link>https://malldred.github.io/author/mary-alldred/</link>
-      <atom:link href="https://malldred.github.io/author/mary-alldred/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/mary-alldred/</link>
+      <atom:link href="/author/mary-alldred/index.xml" rel="self" type="application/rss+xml" />
     <description>Mary Alldred</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
       <title>Mary Alldred</title>
-      <link>https://malldred.github.io/author/mary-alldred/</link>
+      <link>/author/mary-alldred/</link>
     </image>
     
     <item>
       <title>Size and density of upside-down jellyfish, *Cassiopea* sp., and their impact on benthic fluxes in a Caribbean lagoon</title>
-      <link>https://malldred.github.io/publication/zarnoch-etal-2020-marineenvresearch/</link>
+      <link>/publication/zarnoch-etal-2020-marineenvresearch/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/zarnoch-etal-2020-marineenvresearch/</guid>
+      <guid>/publication/zarnoch-etal-2020-marineenvresearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marsh plants enhance coastal marsh resilience by changing sediment oxygen and sulfide concentrations in an urban, eutrophic estuary</title>
-      <link>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</link>
+      <link>/publication/alldred-etal-2020-estuariescoasts/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</guid>
+      <guid>/publication/alldred-etal-2020-estuariescoasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ribbed mussels *Geukensia demissa* enhance nitrogen-removal services but not plant growth in restored eutrophic salt marshes</title>
-      <link>https://malldred.github.io/publication/zhu-etal-2019-meps/</link>
+      <link>/publication/zhu-etal-2019-meps/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/zhu-etal-2019-meps/</guid>
+      <guid>/publication/zhu-etal-2019-meps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://malldred.github.io/templates/preprint/</link>
+      <link>/templates/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/templates/preprint/</guid>
+      <guid>/templates/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -53,9 +53,9 @@
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://malldred.github.io/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -96,24 +96,23 @@ date: 2019-09-01
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Impact of salinity and nutrients on salt marsh stability</title>
-      <link>https://malldred.github.io/publication/alldred-etal-2017-ecosphere/</link>
+      <link>/publication/alldred-etal-2017-ecosphere/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/alldred-etal-2017-ecosphere/</guid>
+      <guid>/publication/alldred-etal-2017-ecosphere/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://malldred.github.io/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -255,25 +254,25 @@ date: 2019-09-01
     
     <item>
       <title>Effects of invasive-plant management on nitrogen-removal services in freshwater tidal marshes</title>
-      <link>https://malldred.github.io/publication/alldred-etal-2016-plosone/</link>
+      <link>/publication/alldred-etal-2016-plosone/</link>
       <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/alldred-etal-2016-plosone/</guid>
+      <guid>/publication/alldred-etal-2016-plosone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of wetland plants on denitrification rates: a meta‐analysis</title>
-      <link>https://malldred.github.io/publication/alldred-baines-2016-ecologicalapplications/</link>
+      <link>/publication/alldred-baines-2016-ecologicalapplications/</link>
       <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/alldred-baines-2016-ecologicalapplications/</guid>
+      <guid>/publication/alldred-baines-2016-ecologicalapplications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://malldred.github.io/templates/journal-article/</link>
+      <link>/templates/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/templates/journal-article/</guid>
+      <guid>/templates/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -291,9 +290,9 @@ date: 2019-09-01
     
     <item>
       <title>An example conference paper</title>
-      <link>https://malldred.github.io/templates/conference-paper/</link>
+      <link>/templates/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/templates/conference-paper/</guid>
+      <guid>/templates/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

@@ -2,23 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Restoration | Alldred Lab</title>
-    <link>https://malldred.github.io/tag/restoration/</link>
-      <atom:link href="https://malldred.github.io/tag/restoration/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/restoration/</link>
+      <atom:link href="/tag/restoration/index.xml" rel="self" type="application/rss+xml" />
     <description>Restoration</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
       <title>Restoration</title>
-      <link>https://malldred.github.io/tag/restoration/</link>
+      <link>/tag/restoration/</link>
     </image>
     
     <item>
       <title>Mutualistic Species Interactions</title>
-      <link>https://malldred.github.io/project/03_speciesinteractions/</link>
-      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/project/03_speciesinteractions/</guid>
+      <link>/project/speciesinteractions/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>/project/speciesinteractions/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
-&lt;p&gt;The relationship between ribbed mussels &lt;em&gt;Geukensia demisssa&lt;/em&gt; and smooth cordgrass &lt;em&gt;Spartina alterniflora&lt;/em&gt; is a classic example of a mutualism. The grass provides shade and settlement habitat for mussels, while mussels stabilize sediment surfaces and fertilize plants through deposition of feces and pseudofeces. We investigate whether the presence of ribbed mussels in restored urban marshes of Jamaica Bay and the Harlem River (New York, NY) enhances plant growth and nitrogen-removal services.&lt;/p&gt;
+&lt;p&gt;The relationship between ribbed mussels &lt;em&gt;Geukensia demisssa&lt;/em&gt; and smooth cordgrass &lt;em&gt;Spartina alterniflora&lt;/em&gt; is a classic example of a mutualism. The grass provides shade and settlement habitat for mussels, while mussels stabilize sediment surfaces and fertilize plants through deposition of feces and pseudofeces. We investigate whether the presence of ribbed mussels in restored urban marshes of Jamaica Bay and the Harlem River (New York, NY) enhances plant growth and nitrogen-removal services.&lt;br&gt;
+&lt;img src=&#34;musselmechanism.jpg&#34; alt=&#34;Conceptual framework used to predict the effects of the mussel-grass mutualism on processes of the nitrogen cycle.&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;project-video&#34;&gt;Project Video&lt;/h2&gt;
+&lt;p&gt;Our project was featured in &amp;ldquo;It&amp;rsquo;s mutual! Ribbed mussels and smooth cordgrass: How two species can help restore urban salt marshes and clean the estuary, &amp;quot; a short video in the Hudson River Park&amp;rsquo;s Submerge Marine Science Festival. Produced by Christopher Girgenti, Randall&amp;rsquo;s Island Park Alliance in Summer 2022.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/510bcCCXKxg&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sites.google.com/view/chesterbzarnochlab/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chester Zarnoch&lt;/a&gt;, Baruch College CUNY&lt;br&gt;
@@ -39,9 +43,9 @@ Patricia Rafferty, National Park Service&lt;/p&gt;
     
     <item>
       <title>Urban Marsh Restoration</title>
-      <link>https://malldred.github.io/project/02_urbanmarshrestoration/</link>
+      <link>/project/02_urbanmarshrestoration/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/project/02_urbanmarshrestoration/</guid>
+      <guid>/project/02_urbanmarshrestoration/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;An ongoing collaborative research project investigates the development of nitrogen cycling processes and plant characteristics following marsh reconstruction in urban, eutrophic wetlands of New York City. Using a series of restorations in Jamaica Bay, we employ a space-for-time substitution to determine how restored marshes, and the services they provide, develop over time in a highly urbanized system.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;

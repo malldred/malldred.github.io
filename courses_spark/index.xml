@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses_sparks | Alldred Lab</title>
-    <link>/courses_spark/</link>
-      <atom:link href="/courses_spark/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://malldred.github.io/courses_spark/</link>
+      <atom:link href="https://malldred.github.io/courses_spark/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses_sparks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
+      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
       <title>Courses_sparks</title>
-      <link>/courses_spark/</link>
+      <link>https://malldred.github.io/courses_spark/</link>
     </image>
     
     <item>
       <title>CFS 1889 Cardinal Foundation Seminar</title>
-      <link>/courses_spark/cfs-1889/</link>
+      <link>https://malldred.github.io/courses_spark/cfs-1889/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/courses_spark/cfs-1889/</guid>
+      <guid>https://malldred.github.io/courses_spark/cfs-1889/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENV 340 Environmental Science Seminar</title>
-      <link>/courses_spark/env340/</link>
+      <link>https://malldred.github.io/courses_spark/env340/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/courses_spark/env340/</guid>
+      <guid>https://malldred.github.io/courses_spark/env340/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENV 422 Environmental Data Analysis</title>
-      <link>/courses_spark/env422/</link>
+      <link>https://malldred.github.io/courses_spark/env422/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/courses_spark/env422/</guid>
+      <guid>https://malldred.github.io/courses_spark/env422/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENV 462 Ecosystem Ecology</title>
-      <link>/courses_spark/env462/</link>
+      <link>https://malldred.github.io/courses_spark/env462/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/courses_spark/env462/</guid>
+      <guid>https://malldred.github.io/courses_spark/env462/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENV 304 Ecology</title>
-      <link>/courses_spark/env304/</link>
+      <link>https://malldred.github.io/courses_spark/env304/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/courses_spark/env304/</guid>
+      <guid>https://malldred.github.io/courses_spark/env304/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENV 413 Biogeochemical Cycling</title>
-      <link>/courses_spark/env413/</link>
+      <link>https://malldred.github.io/courses_spark/env413/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/courses_spark/env413/</guid>
+      <guid>https://malldred.github.io/courses_spark/env413/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENV 439 Wetland Ecology and Management</title>
-      <link>/courses_spark/env439/</link>
+      <link>https://malldred.github.io/courses_spark/env439/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/courses_spark/env439/</guid>
+      <guid>https://malldred.github.io/courses_spark/env439/</guid>
       <description></description>
     </item>
     

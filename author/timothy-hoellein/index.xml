@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Timothy Hoellein | Alldred Lab</title>
-    <link>/author/timothy-hoellein/</link>
-      <atom:link href="/author/timothy-hoellein/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://malldred.github.io/author/timothy-hoellein/</link>
+      <atom:link href="https://malldred.github.io/author/timothy-hoellein/index.xml" rel="self" type="application/rss+xml" />
     <description>Timothy Hoellein</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
+      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
       <title>Timothy Hoellein</title>
-      <link>/author/timothy-hoellein/</link>
+      <link>https://malldred.github.io/author/timothy-hoellein/</link>
     </image>
     
     <item>
       <title>Size and density of upside-down jellyfish, *Cassiopea* sp., and their impact on benthic fluxes in a Caribbean lagoon</title>
-      <link>/publication/zarnoch-etal-2020-marineenvresearch/</link>
+      <link>https://malldred.github.io/publication/zarnoch-etal-2020-marineenvresearch/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/zarnoch-etal-2020-marineenvresearch/</guid>
+      <guid>https://malldred.github.io/publication/zarnoch-etal-2020-marineenvresearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marsh plants enhance coastal marsh resilience by changing sediment oxygen and sulfide concentrations in an urban, eutrophic estuary</title>
-      <link>/publication/alldred-etal-2020-estuariescoasts/</link>
+      <link>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/alldred-etal-2020-estuariescoasts/</guid>
+      <guid>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ribbed mussels *Geukensia demissa* enhance nitrogen-removal services but not plant growth in restored eutrophic salt marshes</title>
-      <link>/publication/zhu-etal-2019-meps/</link>
+      <link>https://malldred.github.io/publication/zhu-etal-2019-meps/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/zhu-etal-2019-meps/</guid>
+      <guid>https://malldred.github.io/publication/zhu-etal-2019-meps/</guid>
       <description></description>
     </item>
     

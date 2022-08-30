@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ecosystem services | Alldred Lab</title>
-    <link>/tag/ecosystem-services/</link>
-      <atom:link href="/tag/ecosystem-services/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://malldred.github.io/tag/ecosystem-services/</link>
+      <atom:link href="https://malldred.github.io/tag/ecosystem-services/index.xml" rel="self" type="application/rss+xml" />
     <description>Ecosystem services</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
+      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
       <title>Ecosystem services</title>
-      <link>/tag/ecosystem-services/</link>
+      <link>https://malldred.github.io/tag/ecosystem-services/</link>
     </image>
     
     <item>
       <title>Mutualistic Species Interactions</title>
-      <link>/project/speciesinteractions/</link>
+      <link>https://malldred.github.io/project/speciesinteractions/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/speciesinteractions/</guid>
+      <guid>https://malldred.github.io/project/speciesinteractions/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;The relationship between ribbed mussels &lt;em&gt;Geukensia demisssa&lt;/em&gt; and smooth cordgrass &lt;em&gt;Spartina alterniflora&lt;/em&gt; is a classic example of a mutualism. The grass provides shade and settlement habitat for mussels, while mussels stabilize sediment surfaces and fertilize plants through deposition of feces and pseudofeces. We investigate whether the presence of ribbed mussels in restored urban marshes of Jamaica Bay and the Harlem River (New York, NY) enhances plant growth and nitrogen-removal services.&lt;br&gt;
 &lt;img src=&#34;musselmechanism.jpg&#34; alt=&#34;Conceptual framework used to predict the effects of the mussel-grass mutualism on processes of the nitrogen cycle.&#34;&gt;&lt;/p&gt;
@@ -43,9 +43,9 @@ Patricia Rafferty, National Park Service&lt;/p&gt;
     
     <item>
       <title>Urban Marsh Restoration</title>
-      <link>/project/02_urbanmarshrestoration/</link>
+      <link>https://malldred.github.io/project/02_urbanmarshrestoration/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/02_urbanmarshrestoration/</guid>
+      <guid>https://malldred.github.io/project/02_urbanmarshrestoration/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;An ongoing collaborative research project investigates the development of nitrogen cycling processes and plant characteristics following marsh reconstruction in urban, eutrophic wetlands of New York City. Using a series of restorations in Jamaica Bay, we employ a space-for-time substitution to determine how restored marshes, and the services they provide, develop over time in a highly urbanized system.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;

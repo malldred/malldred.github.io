@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stuart Findlay | Alldred Lab</title>
-    <link>https://malldred.github.io/author/stuart-findlay/</link>
-      <atom:link href="https://malldred.github.io/author/stuart-findlay/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/stuart-findlay/</link>
+      <atom:link href="/author/stuart-findlay/index.xml" rel="self" type="application/rss+xml" />
     <description>Stuart Findlay</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Thu, 25 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Mary Alldred</copyright><lastBuildDate>Thu, 25 Feb 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
       <title>Stuart Findlay</title>
-      <link>https://malldred.github.io/author/stuart-findlay/</link>
+      <link>/author/stuart-findlay/</link>
     </image>
     
     <item>
       <title>Effects of invasive-plant management on nitrogen-removal services in freshwater tidal marshes</title>
-      <link>https://malldred.github.io/publication/alldred-etal-2016-plosone/</link>
+      <link>/publication/alldred-etal-2016-plosone/</link>
       <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/alldred-etal-2016-plosone/</guid>
+      <guid>/publication/alldred-etal-2016-plosone/</guid>
       <description></description>
     </item>
     

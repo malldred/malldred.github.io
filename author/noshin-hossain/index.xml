@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noshin Hossain | Alldred Lab</title>
-    <link>https://malldred.github.io/author/noshin-hossain/</link>
-      <atom:link href="https://malldred.github.io/author/noshin-hossain/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/noshin-hossain/</link>
+      <atom:link href="/author/noshin-hossain/index.xml" rel="self" type="application/rss+xml" />
     <description>Noshin Hossain</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Mary Alldred</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
       <title>Noshin Hossain</title>
-      <link>https://malldred.github.io/author/noshin-hossain/</link>
+      <link>/author/noshin-hossain/</link>
     </image>
     
     <item>
       <title>Size and density of upside-down jellyfish, *Cassiopea* sp., and their impact on benthic fluxes in a Caribbean lagoon</title>
-      <link>https://malldred.github.io/publication/zarnoch-etal-2020-marineenvresearch/</link>
+      <link>/publication/zarnoch-etal-2020-marineenvresearch/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/zarnoch-etal-2020-marineenvresearch/</guid>
+      <guid>/publication/zarnoch-etal-2020-marineenvresearch/</guid>
       <description></description>
     </item>
     

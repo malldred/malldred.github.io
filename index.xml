@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alldred Lab</title>
-    <link>https://malldred.github.io/</link>
-      <atom:link href="https://malldred.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Alldred Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Mary Alldred</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
       <title>Alldred Lab</title>
-      <link>https://malldred.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>https://malldred.github.io/courses/example/example1/</link>
+      <link>/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://malldred.github.io/courses/example/example1/</guid>
+      <guid>/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>https://malldred.github.io/courses/example/example2/</link>
+      <link>/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>https://malldred.github.io/courses/example/example2/</guid>
+      <guid>/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://malldred.github.io/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -78,9 +78,9 @@
     
     <item>
       <title>Mutualistic Species Interactions</title>
-      <link>https://malldred.github.io/project/speciesinteractions/</link>
+      <link>/project/speciesinteractions/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/project/speciesinteractions/</guid>
+      <guid>/project/speciesinteractions/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;The relationship between ribbed mussels &lt;em&gt;Geukensia demisssa&lt;/em&gt; and smooth cordgrass &lt;em&gt;Spartina alterniflora&lt;/em&gt; is a classic example of a mutualism. The grass provides shade and settlement habitat for mussels, while mussels stabilize sediment surfaces and fertilize plants through deposition of feces and pseudofeces. We investigate whether the presence of ribbed mussels in restored urban marshes of Jamaica Bay and the Harlem River (New York, NY) enhances plant growth and nitrogen-removal services.&lt;br&gt;
 &lt;img src=&#34;musselmechanism.jpg&#34; alt=&#34;Conceptual framework used to predict the effects of the mussel-grass mutualism on processes of the nitrogen cycle.&#34;&gt;&lt;/p&gt;
@@ -107,25 +107,25 @@ Patricia Rafferty, National Park Service&lt;/p&gt;
     
     <item>
       <title>CFS 1889 Cardinal Foundation Seminar</title>
-      <link>https://malldred.github.io/courses_spark/cfs-1889/</link>
+      <link>/courses_spark/cfs-1889/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/courses_spark/cfs-1889/</guid>
+      <guid>/courses_spark/cfs-1889/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENV 340 Environmental Science Seminar</title>
-      <link>https://malldred.github.io/courses_spark/env340/</link>
+      <link>/courses_spark/env340/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/courses_spark/env340/</guid>
+      <guid>/courses_spark/env340/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zoom a Microbe</title>
-      <link>https://malldred.github.io/project/zoomamicrobe/</link>
+      <link>/project/zoomamicrobe/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/project/zoomamicrobe/</guid>
+      <guid>/project/zoomamicrobe/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;The best advice I ever received for learning biogeochemistry is that everything makes a lot more sense if you think about it from the point of view of a microbe. But let&amp;rsquo;s face it, microbes can be hard to relate to. They are foundational to the structure and function of every ecosystem on Earth. But they&amp;rsquo;re also small, they don&amp;rsquo;t talk much, and we rarely see them in their own environments. Until now! The Zoom a Microbe series dives below the surface of ecosystems and interview microbes about what they do and why. These videos are designed to be short, entertaining, and hopefully spark a desire to learn more about our fascinating microscopic neighbors.&lt;/p&gt;
 &lt;h2 id=&#34;meet-one-of-the-microbes&#34;&gt;Meet One of the Microbes!&lt;/h2&gt;
@@ -143,9 +143,9 @@ Patricia Rafferty, National Park Service&lt;/p&gt;
     
     <item>
       <title>Educational Displays at the LaPierre Lane Riverway</title>
-      <link>https://malldred.github.io/project/06_lapierrelaneriverway/</link>
+      <link>/project/06_lapierrelaneriverway/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/project/06_lapierrelaneriverway/</guid>
+      <guid>/project/06_lapierrelaneriverway/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;The LaPierre Lane Riverway was the first completed trail of the Saranac River Trail Greenway. Located at the end of LaPierre Lane in Morrisonville, NY, the park includes a 1/4 mile hiking trail suitable for all ages and abilities, a youth adventure area with locally crafted and nature-inspired playground equipment, fitness-for-life exercise equipment, a meditation garden and canoe launch on the banks of the Saranac River, and a boardwalk through a forested riparian wetland supporting a wealth of local biodiversity. Since 2017, Dr. Alldred and her students have collaborated with the Town of Plattsburgh to provide educational signage for this park. Signs are updated periodically. Stop by today to learn something new about wetlands!&lt;br&gt;
 To learn more about student research related to this project, please visit the Undergraduate Research Projects page.&lt;/p&gt;
@@ -179,17 +179,17 @@ To learn more about student research related to this project, please visit the U
     
     <item>
       <title>Undergraduate Research Projects</title>
-      <link>https://malldred.github.io/project/01_undergraduateresearch/</link>
+      <link>/project/01_undergraduateresearch/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/project/01_undergraduateresearch/</guid>
+      <guid>/project/01_undergraduateresearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecosystem Dynamics of the Altona Flat Rock</title>
-      <link>https://malldred.github.io/project/05_altonaflatrock/</link>
+      <link>/project/05_altonaflatrock/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/project/05_altonaflatrock/</guid>
+      <guid>/project/05_altonaflatrock/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;The Altona Flat Rock (Altona, NY) is a sandstone pavement pine barren, a rare habitat. The forest community is dominated by jack pine (&lt;em&gt;Pinus banksiana&lt;/em&gt;), a species that requires fire disturbance to reproduce successfully. Following a wildfire in summer 2018 that burned 225 ha of the Flat Rock, an interdisciplinary team of faculty from the 
 &lt;a href=&#34;https://www.plattsburgh.edu/academics/schools/arts-sciences/cees/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Earth and Environmental Sciences&lt;/a&gt; at SUNY Plattsburgh began a project investigating recovery of the ecosystem following the fire. My students and I focus on the role wetlands play in short-term and long-term carbon storage in the ecosystem. We use permanent-plot sampling, intensive sampling of wetlands within and outside the burn, and paleo cores to describe patterns of carbon storage over time and space.&lt;br&gt;
@@ -210,9 +210,9 @@ To learn more about student research related to this project, please visit the U
     
     <item>
       <title>Urban Marsh Restoration</title>
-      <link>https://malldred.github.io/project/02_urbanmarshrestoration/</link>
+      <link>/project/02_urbanmarshrestoration/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/project/02_urbanmarshrestoration/</guid>
+      <guid>/project/02_urbanmarshrestoration/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;An ongoing collaborative research project investigates the development of nitrogen cycling processes and plant characteristics following marsh reconstruction in urban, eutrophic wetlands of New York City. Using a series of restorations in Jamaica Bay, we employ a space-for-time substitution to determine how restored marshes, and the services they provide, develop over time in a highly urbanized system.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
@@ -235,9 +235,9 @@ Patricia Rafferty, National Park Service&lt;/p&gt;
     
     <item>
       <title>Using Organismal Traits to Predict Ecosystem Processes</title>
-      <link>https://malldred.github.io/project/04_traitsecosystemfunction/</link>
+      <link>/project/04_traitsecosystemfunction/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/project/04_traitsecosystemfunction/</guid>
+      <guid>/project/04_traitsecosystemfunction/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;This project seeks to develop a mechanistic understanding of how plants influence rates of nitrogen removal via microbial denitrification using traits of the plant community. My work has addressed this challenge at multiple scales using such approaches as literature synthesis, field surveys, field manipulations, and smaller scale experiments. In a meta-analysis of 419 published measurements of denitrification, I estimated that vegetation on average increases the ability of marshes to remove nitrogen by 55% and that this effect differs among species. I pursued two field projects to explain variation among species by investigating interactions among plant traits and sediment properties and processes. In the first, I determined that removing an invasive marsh grass, &lt;em&gt;Phragmites australis&lt;/em&gt;, increased sediment nitrogen concentrations and decreased denitrification relative to marshes containing either invasive &lt;em&gt;Phragmites&lt;/em&gt; or native cattail species. These results suggest a trade-off between removing invasive species to conserve biodiversity and managing wetlands to promote nitrogen removal. The second project addressed interactions between belowground traits of common salt marsh dominant &lt;em&gt;Spartina alterniflora&lt;/em&gt; and ecosystem properties and processes along a land-use gradient on Long Island, NY. Root growth of &lt;em&gt;S. alterniflora&lt;/em&gt; responded positively to salinity and negatively to nitrogen availability, suggesting that eutrophication and sea-level rise may have opposing effects on root mass, and therefore marsh stability, in the future. Preliminary results from Long Island field surveys further suggest that &lt;em&gt;S. alterniflora&lt;/em&gt; roots influence nitrification and denitrification rates by introducing oxygen to sediments, providing further evidence that plants alter key nitrogen transformation processes and influence the ability of wetlands to remove nitrogen. These projects represent an effort to solve pressing management problems using ecological theory from several ecological sub-disciplines at multiple scales.&lt;br&gt;
 You read more about these projects in Publications.&lt;/p&gt;
@@ -272,73 +272,73 @@ The Ward Melville Heritage Organization&lt;/p&gt;
     
     <item>
       <title>ENV 422 Environmental Data Analysis</title>
-      <link>https://malldred.github.io/courses_spark/env422/</link>
+      <link>/courses_spark/env422/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/courses_spark/env422/</guid>
+      <guid>/courses_spark/env422/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENV 462 Ecosystem Ecology</title>
-      <link>https://malldred.github.io/courses_spark/env462/</link>
+      <link>/courses_spark/env462/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/courses_spark/env462/</guid>
+      <guid>/courses_spark/env462/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENV 304 Ecology</title>
-      <link>https://malldred.github.io/courses_spark/env304/</link>
+      <link>/courses_spark/env304/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/courses_spark/env304/</guid>
+      <guid>/courses_spark/env304/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENV 413 Biogeochemical Cycling</title>
-      <link>https://malldred.github.io/courses_spark/env413/</link>
+      <link>/courses_spark/env413/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/courses_spark/env413/</guid>
+      <guid>/courses_spark/env413/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ENV 439 Wetland Ecology and Management</title>
-      <link>https://malldred.github.io/courses_spark/env439/</link>
+      <link>/courses_spark/env439/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/courses_spark/env439/</guid>
+      <guid>/courses_spark/env439/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Size and density of upside-down jellyfish, *Cassiopea* sp., and their impact on benthic fluxes in a Caribbean lagoon</title>
-      <link>https://malldred.github.io/publication/zarnoch-etal-2020-marineenvresearch/</link>
+      <link>/publication/zarnoch-etal-2020-marineenvresearch/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/zarnoch-etal-2020-marineenvresearch/</guid>
+      <guid>/publication/zarnoch-etal-2020-marineenvresearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Marsh plants enhance coastal marsh resilience by changing sediment oxygen and sulfide concentrations in an urban, eutrophic estuary</title>
-      <link>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</link>
+      <link>/publication/alldred-etal-2020-estuariescoasts/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</guid>
+      <guid>/publication/alldred-etal-2020-estuariescoasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ribbed mussels *Geukensia demissa* enhance nitrogen-removal services but not plant growth in restored eutrophic salt marshes</title>
-      <link>https://malldred.github.io/publication/zhu-etal-2019-meps/</link>
+      <link>/publication/zhu-etal-2019-meps/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/zhu-etal-2019-meps/</guid>
+      <guid>/publication/zhu-etal-2019-meps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://malldred.github.io/post/writing-technical-content/</link>
+      <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/post/writing-technical-content/</guid>
+      <guid>/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -366,14 +366,14 @@ data.head()
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}&lt;em&gt;{n}) - \nabla F(\mathbf{x}&lt;/em&gt;{n-1}) \right |^2}$$&lt;/p&gt;
+&lt;p&gt;$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left |\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right |^2}$$&lt;/p&gt;
 &lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$\nabla F(\mathbf{x}_{n})$&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$.&lt;/p&gt;
 &lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\\\&lt;/code&gt; math linebreak:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\\\
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;renders as&lt;/p&gt;
-&lt;p&gt;$$f(k;p_0^&lt;em&gt;) = \begin{cases} p_0^&lt;/em&gt; &amp;amp; \text{if }k=1, \\
+&lt;p&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\&lt;br&gt;
 1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$&lt;/p&gt;
 &lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
 &lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
@@ -589,9 +589,9 @@ You found me!
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://malldred.github.io/templates/preprint/</link>
+      <link>/templates/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/templates/preprint/</guid>
+      <guid>/templates/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -604,9 +604,9 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://malldred.github.io/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -647,16 +647,15 @@ date: 2019-09-01
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://malldred.github.io/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -706,15 +705,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-   One 
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   **Two** 
+&lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   Three 
-&lt;/span&gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
@@ -787,26 +786,44 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Impact of salinity and nutrients on salt marsh stability</title>
-      <link>https://malldred.github.io/publication/alldred-etal-2017-ecosphere/</link>
+      <link>/publication/alldred-etal-2017-ecosphere/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/alldred-etal-2017-ecosphere/</guid>
+      <guid>/publication/alldred-etal-2017-ecosphere/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://malldred.github.io/templates/external-project/</link>
+      <link>/templates/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/templates/external-project/</guid>
+      <guid>/templates/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://malldred.github.io/templates/internal-project/</link>
+      <link>/templates/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/templates/internal-project/</guid>
+      <guid>/templates/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -817,9 +834,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://malldred.github.io/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -961,25 +978,25 @@ $$&lt;/p&gt;
     
     <item>
       <title>Effects of invasive-plant management on nitrogen-removal services in freshwater tidal marshes</title>
-      <link>https://malldred.github.io/publication/alldred-etal-2016-plosone/</link>
+      <link>/publication/alldred-etal-2016-plosone/</link>
       <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/alldred-etal-2016-plosone/</guid>
+      <guid>/publication/alldred-etal-2016-plosone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of wetland plants on denitrification rates: a meta‐analysis</title>
-      <link>https://malldred.github.io/publication/alldred-baines-2016-ecologicalapplications/</link>
+      <link>/publication/alldred-baines-2016-ecologicalapplications/</link>
       <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/publication/alldred-baines-2016-ecologicalapplications/</guid>
+      <guid>/publication/alldred-baines-2016-ecologicalapplications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>https://malldred.github.io/templates/journal-article/</link>
+      <link>/templates/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/templates/journal-article/</guid>
+      <guid>/templates/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -997,9 +1014,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://malldred.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://malldred.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -1036,7 +1053,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://malldred.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -1047,9 +1064,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>An example conference paper</title>
-      <link>https://malldred.github.io/templates/conference-paper/</link>
+      <link>/templates/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/templates/conference-paper/</guid>
+      <guid>/templates/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

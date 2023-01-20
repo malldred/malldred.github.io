@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nitrogen | Alldred Lab</title>
-    <link>https://malldred.github.io/tag/nitrogen/</link>
-      <atom:link href="https://malldred.github.io/tag/nitrogen/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/nitrogen/</link>
+      <atom:link href="/tag/nitrogen/index.xml" rel="self" type="application/rss+xml" />
     <description>Nitrogen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Mary Alldred</copyright><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Mary Alldred</copyright><lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
       <title>Nitrogen</title>
-      <link>https://malldred.github.io/tag/nitrogen/</link>
+      <link>/tag/nitrogen/</link>
     </image>
     
     <item>
       <title>Using Organismal Traits to Predict Ecosystem Processes</title>
-      <link>https://malldred.github.io/project/04_traitsecosystemfunction/</link>
+      <link>/project/04_traitsecosystemfunction/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/project/04_traitsecosystemfunction/</guid>
+      <guid>/project/04_traitsecosystemfunction/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;This project seeks to develop a mechanistic understanding of how plants influence rates of nitrogen removal via microbial denitrification using traits of the plant community. My work has addressed this challenge at multiple scales using such approaches as literature synthesis, field surveys, field manipulations, and smaller scale experiments. In a meta-analysis of 419 published measurements of denitrification, I estimated that vegetation on average increases the ability of marshes to remove nitrogen by 55% and that this effect differs among species. I pursued two field projects to explain variation among species by investigating interactions among plant traits and sediment properties and processes. In the first, I determined that removing an invasive marsh grass, &lt;em&gt;Phragmites australis&lt;/em&gt;, increased sediment nitrogen concentrations and decreased denitrification relative to marshes containing either invasive &lt;em&gt;Phragmites&lt;/em&gt; or native cattail species. These results suggest a trade-off between removing invasive species to conserve biodiversity and managing wetlands to promote nitrogen removal. The second project addressed interactions between belowground traits of common salt marsh dominant &lt;em&gt;Spartina alterniflora&lt;/em&gt; and ecosystem properties and processes along a land-use gradient on Long Island, NY. Root growth of &lt;em&gt;S. alterniflora&lt;/em&gt; responded positively to salinity and negatively to nitrogen availability, suggesting that eutrophication and sea-level rise may have opposing effects on root mass, and therefore marsh stability, in the future. Preliminary results from Long Island field surveys further suggest that &lt;em&gt;S. alterniflora&lt;/em&gt; roots influence nitrification and denitrification rates by introducing oxygen to sediments, providing further evidence that plants alter key nitrogen transformation processes and influence the ability of wetlands to remove nitrogen. These projects represent an effort to solve pressing management problems using ecological theory from several ecological sub-disciplines at multiple scales.&lt;br&gt;
 You read more about these projects in Publications.&lt;/p&gt;

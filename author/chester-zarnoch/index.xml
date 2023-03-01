@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chester Zarnoch | Alldred Lab</title>
-    <link>/author/chester-zarnoch/</link>
-      <atom:link href="/author/chester-zarnoch/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://malldred.github.io/author/chester-zarnoch/</link>
+      <atom:link href="https://malldred.github.io/author/chester-zarnoch/index.xml" rel="self" type="application/rss+xml" />
     <description>Chester Zarnoch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Mary Alldred</copyright><lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Mary Alldred</copyright><lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
+      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
       <title>Chester Zarnoch</title>
-      <link>/author/chester-zarnoch/</link>
+      <link>https://malldred.github.io/author/chester-zarnoch/</link>
     </image>
     
     <item>
+      <title>Estuarine sediment microbiomes from a chronosequence of restored urban salt marshes</title>
+      <link>https://malldred.github.io/publication/morris-etal-2023-microbialecology/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://malldred.github.io/publication/morris-etal-2023-microbialecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Marsh plants enhance coastal marsh resilience by changing sediment oxygen and sulfide concentrations in an urban, eutrophic estuary</title>
-      <link>/publication/alldred-etal-2020-estuariescoasts/</link>
+      <link>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/alldred-etal-2020-estuariescoasts/</guid>
+      <guid>https://malldred.github.io/publication/alldred-etal-2020-estuariescoasts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ribbed mussels *Geukensia demissa* enhance nitrogen-removal services but not plant growth in restored eutrophic salt marshes</title>
-      <link>/publication/zhu-etal-2019-meps/</link>
+      <link>https://malldred.github.io/publication/zhu-etal-2019-meps/</link>
       <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/zhu-etal-2019-meps/</guid>
+      <guid>https://malldred.github.io/publication/zhu-etal-2019-meps/</guid>
       <description></description>
     </item>
     

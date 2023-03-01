@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Alldred Lab</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://malldred.github.io/project/</link>
+      <atom:link href="https://malldred.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Mary Alldred</copyright><lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
+      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://malldred.github.io/project/</link>
     </image>
     
     <item>
       <title>Mutualistic Species Interactions</title>
-      <link>/project/speciesinteractions/</link>
+      <link>https://malldred.github.io/project/speciesinteractions/</link>
       <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>/project/speciesinteractions/</guid>
+      <guid>https://malldred.github.io/project/speciesinteractions/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;The relationship between ribbed mussels &lt;em&gt;Geukensia demisssa&lt;/em&gt; and smooth cordgrass &lt;em&gt;Spartina alterniflora&lt;/em&gt; is a classic example of a mutualism. The grass provides shade and settlement habitat for mussels, while mussels stabilize sediment surfaces and fertilize plants through deposition of feces and pseudofeces. We investigate whether the presence of ribbed mussels in restored urban marshes of Jamaica Bay and the Harlem River (New York, NY) enhances plant growth and nitrogen-removal services.&lt;br&gt;
 &lt;img src=&#34;musselmechanism.jpg&#34; alt=&#34;Conceptual framework used to predict the effects of the mussel-grass mutualism on processes of the nitrogen cycle.&#34;&gt;&lt;/p&gt;
@@ -43,9 +43,9 @@ Patricia Rafferty, National Park Service&lt;/p&gt;
     
     <item>
       <title>Zoom a Microbe</title>
-      <link>/project/zoomamicrobe/</link>
+      <link>https://malldred.github.io/project/zoomamicrobe/</link>
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>/project/zoomamicrobe/</guid>
+      <guid>https://malldred.github.io/project/zoomamicrobe/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;The best advice I ever received for learning biogeochemistry is that everything makes a lot more sense if you think about it from the point of view of a microbe. But let&amp;rsquo;s face it, microbes can be hard to relate to. They are foundational to the structure and function of every ecosystem on Earth. But they&amp;rsquo;re also small, they don&amp;rsquo;t talk much, and we rarely see them in their own environments. Until now! The Zoom a Microbe series dives below the surface of ecosystems and interview microbes about what they do and why. These videos are designed to be short, entertaining, and hopefully spark a desire to learn more about our fascinating microscopic neighbors.&lt;/p&gt;
 &lt;h2 id=&#34;meet-one-of-the-microbes&#34;&gt;Meet One of the Microbes!&lt;/h2&gt;
@@ -63,9 +63,9 @@ Patricia Rafferty, National Park Service&lt;/p&gt;
     
     <item>
       <title>Educational Displays at the LaPierre Lane Riverway</title>
-      <link>/project/06_lapierrelaneriverway/</link>
+      <link>https://malldred.github.io/project/06_lapierrelaneriverway/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/project/06_lapierrelaneriverway/</guid>
+      <guid>https://malldred.github.io/project/06_lapierrelaneriverway/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;The LaPierre Lane Riverway was the first completed trail of the Saranac River Trail Greenway. Located at the end of LaPierre Lane in Morrisonville, NY, the park includes a 1/4 mile hiking trail suitable for all ages and abilities, a youth adventure area with locally crafted and nature-inspired playground equipment, fitness-for-life exercise equipment, a meditation garden and canoe launch on the banks of the Saranac River, and a boardwalk through a forested riparian wetland supporting a wealth of local biodiversity. Since 2017, Dr. Alldred and her students have collaborated with the Town of Plattsburgh to provide educational signage for this park. Signs are updated periodically. Stop by today to learn something new about wetlands!&lt;br&gt;
 To learn more about student research related to this project, please visit the Undergraduate Research Projects page.&lt;/p&gt;
@@ -99,17 +99,17 @@ To learn more about student research related to this project, please visit the U
     
     <item>
       <title>Undergraduate Research Projects</title>
-      <link>/project/01_undergraduateresearch/</link>
+      <link>https://malldred.github.io/project/01_undergraduateresearch/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/project/01_undergraduateresearch/</guid>
+      <guid>https://malldred.github.io/project/01_undergraduateresearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecosystem Dynamics of the Altona Flat Rock</title>
-      <link>/project/05_altonaflatrock/</link>
+      <link>https://malldred.github.io/project/05_altonaflatrock/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/05_altonaflatrock/</guid>
+      <guid>https://malldred.github.io/project/05_altonaflatrock/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;The Altona Flat Rock (Altona, NY) is a sandstone pavement pine barren, a rare habitat. The forest community is dominated by jack pine (&lt;em&gt;Pinus banksiana&lt;/em&gt;), a species that requires fire disturbance to reproduce successfully. Following a wildfire in summer 2018 that burned 225 ha of the Flat Rock, an interdisciplinary team of faculty from the 
 &lt;a href=&#34;https://www.plattsburgh.edu/academics/schools/arts-sciences/cees/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Earth and Environmental Sciences&lt;/a&gt; at SUNY Plattsburgh began a project investigating recovery of the ecosystem following the fire. My students and I focus on the role wetlands play in short-term and long-term carbon storage in the ecosystem. We use permanent-plot sampling, intensive sampling of wetlands within and outside the burn, and paleo cores to describe patterns of carbon storage over time and space.&lt;br&gt;
@@ -130,9 +130,9 @@ To learn more about student research related to this project, please visit the U
     
     <item>
       <title>Urban Marsh Restoration</title>
-      <link>/project/02_urbanmarshrestoration/</link>
+      <link>https://malldred.github.io/project/02_urbanmarshrestoration/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/02_urbanmarshrestoration/</guid>
+      <guid>https://malldred.github.io/project/02_urbanmarshrestoration/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;An ongoing collaborative research project investigates the development of nitrogen cycling processes and plant characteristics following marsh reconstruction in urban, eutrophic wetlands of New York City. Using a series of restorations in Jamaica Bay, we employ a space-for-time substitution to determine how restored marshes, and the services they provide, develop over time in a highly urbanized system.&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
@@ -155,9 +155,9 @@ Patricia Rafferty, National Park Service&lt;/p&gt;
     
     <item>
       <title>Using Organismal Traits to Predict Ecosystem Processes</title>
-      <link>/project/04_traitsecosystemfunction/</link>
+      <link>https://malldred.github.io/project/04_traitsecosystemfunction/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/project/04_traitsecosystemfunction/</guid>
+      <guid>https://malldred.github.io/project/04_traitsecosystemfunction/</guid>
       <description>&lt;h2 id=&#34;project-description&#34;&gt;Project Description&lt;/h2&gt;
 &lt;p&gt;This project seeks to develop a mechanistic understanding of how plants influence rates of nitrogen removal via microbial denitrification using traits of the plant community. My work has addressed this challenge at multiple scales using such approaches as literature synthesis, field surveys, field manipulations, and smaller scale experiments. In a meta-analysis of 419 published measurements of denitrification, I estimated that vegetation on average increases the ability of marshes to remove nitrogen by 55% and that this effect differs among species. I pursued two field projects to explain variation among species by investigating interactions among plant traits and sediment properties and processes. In the first, I determined that removing an invasive marsh grass, &lt;em&gt;Phragmites australis&lt;/em&gt;, increased sediment nitrogen concentrations and decreased denitrification relative to marshes containing either invasive &lt;em&gt;Phragmites&lt;/em&gt; or native cattail species. These results suggest a trade-off between removing invasive species to conserve biodiversity and managing wetlands to promote nitrogen removal. The second project addressed interactions between belowground traits of common salt marsh dominant &lt;em&gt;Spartina alterniflora&lt;/em&gt; and ecosystem properties and processes along a land-use gradient on Long Island, NY. Root growth of &lt;em&gt;S. alterniflora&lt;/em&gt; responded positively to salinity and negatively to nitrogen availability, suggesting that eutrophication and sea-level rise may have opposing effects on root mass, and therefore marsh stability, in the future. Preliminary results from Long Island field surveys further suggest that &lt;em&gt;S. alterniflora&lt;/em&gt; roots influence nitrification and denitrification rates by introducing oxygen to sediments, providing further evidence that plants alter key nitrogen transformation processes and influence the ability of wetlands to remove nitrogen. These projects represent an effort to solve pressing management problems using ecological theory from several ecological sub-disciplines at multiple scales.&lt;br&gt;
 You read more about these projects in Publications.&lt;/p&gt;

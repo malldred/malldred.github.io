@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stephen B. Baines | Alldred Lab</title>
-    <link>/author/stephen-b.-baines/</link>
-      <atom:link href="/author/stephen-b.-baines/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://malldred.github.io/author/stephen-b.-baines/</link>
+      <atom:link href="https://malldred.github.io/author/stephen-b.-baines/index.xml" rel="self" type="application/rss+xml" />
     <description>Stephen B. Baines</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Mary Alldred</copyright><lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_2.png</url>
+      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
       <title>Stephen B. Baines</title>
-      <link>/author/stephen-b.-baines/</link>
+      <link>https://malldred.github.io/author/stephen-b.-baines/</link>
     </image>
     
     <item>
       <title>Impact of salinity and nutrients on salt marsh stability</title>
-      <link>/publication/alldred-etal-2017-ecosphere/</link>
+      <link>https://malldred.github.io/publication/alldred-etal-2017-ecosphere/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/alldred-etal-2017-ecosphere/</guid>
+      <guid>https://malldred.github.io/publication/alldred-etal-2017-ecosphere/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of invasive-plant management on nitrogen-removal services in freshwater tidal marshes</title>
-      <link>/publication/alldred-etal-2016-plosone/</link>
+      <link>https://malldred.github.io/publication/alldred-etal-2016-plosone/</link>
       <pubDate>Thu, 25 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/alldred-etal-2016-plosone/</guid>
+      <guid>https://malldred.github.io/publication/alldred-etal-2016-plosone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effects of wetland plants on denitrification rates: a meta‐analysis</title>
-      <link>/publication/alldred-baines-2016-ecologicalapplications/</link>
+      <link>https://malldred.github.io/publication/alldred-baines-2016-ecologicalapplications/</link>
       <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/alldred-baines-2016-ecologicalapplications/</guid>
+      <guid>https://malldred.github.io/publication/alldred-baines-2016-ecologicalapplications/</guid>
       <description></description>
     </item>
     

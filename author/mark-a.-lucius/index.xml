@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark A. Lucius | Alldred Lab</title>
+    <link>https://malldred.github.io/author/mark-a.-lucius/</link>
+      <atom:link href="https://malldred.github.io/author/mark-a.-lucius/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark A. Lucius</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Mary Alldred</copyright><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
+      <title>Mark A. Lucius</title>
+      <link>https://malldred.github.io/author/mark-a.-lucius/</link>
+    </image>
+    
+    <item>
+      <title>Putting a lake together: Integrating synthetic data and field observations to build a better food web</title>
+      <link>https://malldred.github.io/publication/borrelli-etal-2023-foodwebs/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://malldred.github.io/publication/borrelli-etal-2023-foodwebs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

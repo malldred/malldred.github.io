@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thomas Whaley | Alldred Lab</title>
-    <link>https://malldred.github.io/author/thomas-whaley/</link>
-      <atom:link href="https://malldred.github.io/author/thomas-whaley/index.xml" rel="self" type="application/rss+xml" />
-    <description>Thomas Whaley</description>
+    <title>Erica VanValkenburg | Alldred Lab</title>
+    <link>https://malldred.github.io/author/erica-vanvalkenburg/</link>
+      <atom:link href="https://malldred.github.io/author/erica-vanvalkenburg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Erica VanValkenburg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Mary Alldred</copyright>
     <image>
       <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
-      <title>Thomas Whaley</title>
-      <link>https://malldred.github.io/author/thomas-whaley/</link>
+      <title>Erica VanValkenburg</title>
+      <link>https://malldred.github.io/author/erica-vanvalkenburg/</link>
     </image>
     
   </channel>

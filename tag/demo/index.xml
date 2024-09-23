@@ -5,12 +5,20 @@
     <link>https://malldred.github.io/tag/demo/</link>
       <atom:link href="https://malldred.github.io/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Mary Alldred</copyright><lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Mary Alldred</copyright><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://malldred.github.io/tag/demo/</link>
     </image>
+    
+    <item>
+      <title>Undergraduate Research Projects</title>
+      <link>https://malldred.github.io/project/undergraduateresearch/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://malldred.github.io/project/undergraduateresearch/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CFS 1889 Cardinal Foundation Seminar</title>
@@ -25,14 +33,6 @@
       <link>https://malldred.github.io/courses_spark/env340/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://malldred.github.io/courses_spark/env340/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Undergraduate Research Projects</title>
-      <link>https://malldred.github.io/project/01_undergraduateresearch/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://malldred.github.io/project/01_undergraduateresearch/</guid>
       <description></description>
     </item>
     

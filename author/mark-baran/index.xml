@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Baran | Alldred Lab</title>
+    <link>https://malldred.github.io/author/mark-baran/</link>
+      <atom:link href="https://malldred.github.io/author/mark-baran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Baran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Mary Alldred</copyright><lastBuildDate>Mon, 16 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://malldred.github.io/images/icon_hudebd054d69cdda00ecb6a63173a3cf81_81294_512x512_fill_lanczos_center_3.png</url>
+      <title>Mark Baran</title>
+      <link>https://malldred.github.io/author/mark-baran/</link>
+    </image>
+    
+    <item>
+      <title>Chasing Informed Decisions: A Research Note on the Potential for Strava to Support Rural Recreation Planning</title>
+      <link>https://malldred.github.io/publication/reinhardt-etal-2024-journalparkrecadmin/</link>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://malldred.github.io/publication/reinhardt-etal-2024-journalparkrecadmin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
